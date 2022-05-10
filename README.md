@@ -47,3 +47,5 @@ Instruction number and what is it doing:<br>
 30: Set the B value as the C value<br>
 31: Set the C value as the B value<br>
 32: Set the D value as the B value<br>
+
+There is Hello World program. To use it: as a data_line you neet to write: data.txt, and as a file: program.txt
