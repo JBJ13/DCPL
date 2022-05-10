@@ -1,6 +1,7 @@
 # DCPL
 double coding programming language - esoteric programming language.
 This programming language was created so that its code could be easily edited by itself, so each instruction was given its own number.
+Program written in Python 3.10
 
 Data line is line of data that program can use. Indexing of data_line is from 0.
 There are 4 markers on the data line: A, B, C and D.
