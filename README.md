@@ -1,5 +1,5 @@
 # DCPL
-double coding programming language - esoteric programming language.
+Double coding programming language - esoteric programming language.
 This programming language was created so that its code could be easily edited by itself, so each instruction was given its own number.
 Program written in Python 3.10
 
